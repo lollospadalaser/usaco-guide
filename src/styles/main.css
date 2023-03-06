@@ -5,3 +5,7 @@
 @import 'components.css';
 @import 'anchor.css';
 @import 'animations.css';
+
+.firebase-emulator-warning {
+  display: none;
+}
